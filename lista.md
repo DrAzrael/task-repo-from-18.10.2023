@@ -1,3 +1,2 @@
 [ ] parowki 
-[ ] chleb 
 [ ] ketchup
